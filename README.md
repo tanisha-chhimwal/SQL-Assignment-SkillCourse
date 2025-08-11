@@ -5,6 +5,7 @@ After completing the training, I worked on an assignment to extract key insights
 This repository contains my assignment solution file and demonstrates my ability to write efficient and accurate SQL queries.
 
 📂 Files in this Repository
+
 assignment.sql – My complete SQL queries for the assignment.
 
 assignment.pdf – PDF version of the assignment for easy viewing.
