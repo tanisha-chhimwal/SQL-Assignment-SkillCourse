@@ -1,35 +1,35 @@
-# SQL Assignment – Skill Course
+SQL Assignment Solution – Skill Course
 
-I recently completed an **SQL assignment** provided by **Satish Dhawale**, the founder of **Skill Course**.
+I recently completed an 8-hour SQL course by Satish Dhawale, founder of Skill Course.
+After completing the training, I worked on an assignment to extract key insights from the dataset using SQL queries.
+This repository contains my assignment solution file and demonstrates my ability to write efficient and accurate SQL queries.
 
-In this assignment, I explored a dataset and extracted **key insights** using SQL queries.
+📂 Files in this Repository
+assignment.sql – My complete SQL queries for the assignment.
 
----
+assignment.pdf – PDF version of the assignment for easy viewing.
 
-📌 Assignment Highlights
-- Wrote SQL queries to answer specific business questions
-- Performed filtering, aggregation, and sorting
-- Extracted actionable insights from the dataset
+🛠 Skills Used
+SQL Query Writing
 
----
+Data Filtering & Sorting
 
- 📂 Repository Contents
-- **`SQL_Queries_Solution.sql`** → All SQL queries with solutions
-- **`Assignment_Solution.pdf`** → Clean, formatted PDF version
+Aggregation (SUM, COUNT, AVG, etc.)
 
----
+Joins & Relationships
 
-🛠 Technologies Used
-- SQL (MySQL/PostgreSQL/Other)
-- Data analysis techniques
+Grouping & Filtering on Groups
 
----
+📜 About the Assignment
+The assignment involved:
 
-📄 How to Use
-1. Download the `.sql` file to run queries in your SQL environment.
-2. Open the `.pdf` file to view the formatted solutions.
+Understanding the dataset structure
 
----
+Writing queries to extract specific insights
+
+Using aggregations, filtering, and joins
+
+Presenting clear and optimized query solutions
 
 👨‍💻 Author
 Tanisha Chhimwal
